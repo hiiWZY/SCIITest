@@ -1,0 +1,9 @@
+F:\Bizerba\SCII_Test\SCII_Test\bin\Debug\SCII_Test.exe.config
+F:\Bizerba\SCII_Test\SCII_Test\bin\Debug\SCII_Test.exe
+F:\Bizerba\SCII_Test\SCII_Test\bin\Debug\SCII_Test.pdb
+F:\Bizerba\SCII_Test\SCII_Test\obj\Debug\SCII_Test.csprojResolveAssemblyReference.cache
+F:\Bizerba\SCII_Test\SCII_Test\obj\Debug\SCII_Test.SCII.resources
+F:\Bizerba\SCII_Test\SCII_Test\obj\Debug\SCII_Test.Properties.Resources.resources
+F:\Bizerba\SCII_Test\SCII_Test\obj\Debug\SCII_Test.csproj.GenerateResource.Cache
+F:\Bizerba\SCII_Test\SCII_Test\obj\Debug\SCII_Test.exe
+F:\Bizerba\SCII_Test\SCII_Test\obj\Debug\SCII_Test.pdb
