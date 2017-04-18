@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="ISO-8859-1" ?>
+<!--ATST__00.S00 DATE 2016.12.15 09:33:44-->
+<sx_xmlfile>
+<sx_header>
+<sxxml_vers>1.01</sxxml_vers>
+<sxedv_vers>8.02</sxedv_vers>
+<sxapp_vers>00.00</sxapp_vers>
+<sxapp_date>00.00.00 00:00</sxapp_date>
+<sxapp_prog>61996170291</sxapp_prog>
+<sxapp_kund>V2.91 build.7 CN_zh R</sxapp_kund>
+<sxapp_typ>KHII - 100</sxapp_typ>
+<sxldb_vers>17.35</sxldb_vers>
+<sxinbe_dat>08.12.2016  3:36:48</sxinbe_dat>
+<sx_sysid>1</sx_sysid>
+<sx_wanu>01</sx_wanu>
+<sx_table>ATST</sx_table>
+<sx_cmd>h</sx_cmd>
+<sx_id>00</sx_id>
+</sx_header>
+<sx_data>
+<sx_r>ATNU1ATTE^103;&#x4E00;&#x822C;&#x6587;&#x672C;&#xFF1A;1</sx_r>
+<sx_r>ATNU2ATTE^103;&#x4E00;&#x822C;&#x6587;&#x672C;&#xFF1A;2</sx_r>
+<sx_r>ATNU3ATTE^103;&#x4E00;&#x822C;&#x6587;&#x672C;&#xFF1A;3</sx_r>
+<sx_r>ATNU4ATTE^103;&#x4E00;&#x822C;&#x6587;&#x672C;&#xFF1A;4</sx_r>
+<sx_r>ATNU5ATTE^103;&#x4E00;&#x822C;&#x6587;&#x672C;&#xFF1A;5</sx_r>
+<sx_r>ATNU6ATTE^103;&#x4E00;&#x822C;&#x6587;&#x672C;&#xFF1A;6</sx_r>
+<sx_r>ATNU7ATTE^103;&#x4E00;&#x822C;&#x6587;&#x672C;&#xFF1A;7</sx_r>
+<sx_r>ATNU8ATTE^103;&#x4E00;&#x822C;&#x6587;&#x672C;&#xFF1A;8</sx_r>
+<sx_r>ATNU9ATTE^103;&#x4E00;&#x822C;&#x6587;&#x672C;&#xFF1A;9</sx_r>
+<sx_r>ATNU10ATTE^103;&#x4E00;&#x822C;&#x6587;&#x672C;&#xFF1A;10</sx_r>
+<sx_r>ATNU899999901</sx_r>
+<sx_r>ATNU999999901</sx_r>
+<sx_r>ATNU999999950ATTE&#x4F7F;&#x7528;&#x6700;&#x4F73;&#x6E29;&#x5EA6;+7°C</sx_r>
+<sx_r>ATNU999999987ATTE&amp;$KUNN;, &amp;$KUVN;@0A&amp;$KUST;@0A&amp;$KUPZ; &amp;$KUOT;@0A@0A@0A@0A@0A------------------------------------------------------@0A&#x65E5;&#x671F;    &#x7B7E;&#x540D;</sx_r>
+<sx_r>ATNU999999988ATTE&amp;$KUAN;@0A&amp;$KUVN; &amp;$KUNN;@0A&amp;$KUPZ; &amp;$KUOT;@0A&amp;$KUST;</sx_r>
+<sx_r>ATNU999999989ATTE&#x59D3;&#x540D;:&amp;$KUNN;@0A&#x6700;&#x540E;&#x8D2D;&#x4E70;: &amp;$KULB;@0A* &#x603B;&#x8BA1; &amp;$KUGS;@0A&#x79EF;&#x5206;: &amp;$KUTR;@0A&#x8D2D;&#x7269;&#x7F16;&#x53F7;: &amp;$KUAB;@0A&#x751F;&#x65E5;: &amp;$KUGT;@0A&#x8857;&#x9053;: &amp;$KUST;</sx_r>
+</sx_data>
+</sx_xmlfile>

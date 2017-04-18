@@ -7,3 +7,12 @@ F:\Bizerba\SCII_Test\SCII_Test\obj\Debug\SCII_Test.Properties.Resources.resource
 F:\Bizerba\SCII_Test\SCII_Test\obj\Debug\SCII_Test.csproj.GenerateResource.Cache
 F:\Bizerba\SCII_Test\SCII_Test\obj\Debug\SCII_Test.exe
 F:\Bizerba\SCII_Test\SCII_Test\obj\Debug\SCII_Test.pdb
+C:\Bizerba\1_Project\SCII\SRC\SCIITest\SCII_Test\bin\Debug\SCII_Test.exe.config
+C:\Bizerba\1_Project\SCII\SRC\SCIITest\SCII_Test\obj\Debug\SCII_Test.exe
+C:\Bizerba\1_Project\SCII\SRC\SCIITest\SCII_Test\obj\Debug\SCII_Test.pdb
+C:\Bizerba\1_Project\SCII\SRC\SCIITest\SCII_Test\bin\Debug\SCII_Test.exe
+C:\Bizerba\1_Project\SCII\SRC\SCIITest\SCII_Test\bin\Debug\SCII_Test.pdb
+C:\Bizerba\1_Project\SCII\SRC\SCIITest\SCII_Test\obj\Debug\SCII_Test.csprojResolveAssemblyReference.cache
+C:\Bizerba\1_Project\SCII\SRC\SCIITest\SCII_Test\obj\Debug\SCII_Test.SCII.resources
+C:\Bizerba\1_Project\SCII\SRC\SCIITest\SCII_Test\obj\Debug\SCII_Test.Properties.Resources.resources
+C:\Bizerba\1_Project\SCII\SRC\SCIITest\SCII_Test\obj\Debug\SCII_Test.csproj.GenerateResource.Cache
